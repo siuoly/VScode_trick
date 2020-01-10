@@ -1,0 +1,15 @@
+Because everytime needing move right hand to key '→' and ';' when I completely key a line , I want to omit the action and replace it with 
+key'`' (left up corner ),and this is about how to setting.
+
+
+1.click in left down gear.  choice "延伸模組" , search "Colonize" ,and install it.
+2.test your porgram . 
+  
+  If it don't work :.....
+    3.type "ctrl + k" , and "ctrl + s".
+    4.In search field , type "ctrl + k" , and your in "record key situation" .
+    5.type "shift + enter" ,and you will see "Colonize......" in command field.
+    6.right click on other command , remove it ,because the others command conflict with your setting.  Just maintain "Colonize..." command.
+    
+    then test "shift +enter". If it work, you success.
+    Then repeat step3,4 , type "alt + endter" , "ctrl + alt + enter" ,and remove others conflicted command.
